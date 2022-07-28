@@ -29,6 +29,16 @@ Here are some ideas to get you started:
 <div>
   <a href="https://www.instagram.com/jatkamprek" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.linkedin.com/in/thays-henriques-dos-santos-88570b1b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    ![Snake animation](https://github.com/Jatkamprek/Jatkamprek/blob/main/.github/workflows/snake.yml)
+  Generates a snake game from a github user contributions graph
+
+![](https://github.com/Jatkamprek/snk/raw/output/github-contribution-grid-snake.svg)
+
+Pull a github user's contribution graph.
+Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
+
+Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Jatkamprek/Jatkamprek/blob/main/.github/workflows/snake.yml) image.
+
+Available as github action. It can automatically generate a new image each day. Which makes for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
+
   
 </div>
