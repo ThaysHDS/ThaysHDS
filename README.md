@@ -22,13 +22,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Thay-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Thay-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Thay-Python" height="30" width="40" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" alt="Thay-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/33239b93b36b1cdc1897f3a598d2c583.gif">
 </div>
   
   ##
 <div>
   <a href="https://www.instagram.com/jatkamprek" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.linkedin.com/in/thays-henriques-dos-santos-88570b1b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Jatkamprek)
 </div>
