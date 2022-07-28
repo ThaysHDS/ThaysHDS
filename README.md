@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Thay-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Thay-Python" height="30" width="40" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <a href="https://picasion.com/"><img align="right" style="border-radius:50px;" src="https://i.picasion.com/pic92/33239b93b36b1cdc1897f3a598d2c583.gif" height="150"  alt="Thay-pic" /></a><br/>
+        ![snake gif](https://github.com/Jatkamprek/Jatkamprek/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   ##
@@ -31,5 +32,4 @@ Here are some ideas to get you started:
  	<a href="https://www.linkedin.com/in/thays-henriques-dos-santos-88570b1b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Jatkamprek/count.svg" /></p>
-      ![snake gif](https://github.com/Jatkamprek/Jatkamprek/blob/output/github-contribution-grid-snake.svg)
+
