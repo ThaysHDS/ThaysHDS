@@ -1,4 +1,4 @@
-## Ola, sou a Thays! Seja bem vindo(a)!
+## Olá, sou a Thays! Seja bem vindo(a)!
 
 <!--
 **Jatkamprek/Jatkamprek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
