@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Thays e estou contente em te ver por aqui!
+## Ola, sou a Thays! Seja bem vindo(a)!
 
 <!--
 **Jatkamprek/Jatkamprek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🌱 Atualmente estou aprendendo front-end
 - 🤔 Estou procurando meu primeiro emprego no ramo
 - 😄 Ela/Dela
-- ⚡ Amo utilizar meu tempo livre para ler
 
 <div align="center">
   <a href="https://github.com/Jatkamprek">
