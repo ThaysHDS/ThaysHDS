@@ -34,4 +34,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
  	<a href="https://www.linkedin.com/in/thays-henriques-dos-santos-88570b1b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ![snake gif](https://github.com/Jatkamprek/Jatkamprek/blob/output/github-contribution-grid-snake.svg)
+<!--  ![snake gif](https://github.com/Jatkamprek/Jatkamprek/blob/output/github-contribution-grid-snake.svg) -->
