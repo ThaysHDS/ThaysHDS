@@ -6,8 +6,8 @@
 Here are some ideas to get you started: 
 -->
 
-- 🤓 Sou formada em análise e desenvolvimento de sistemas e trabalho com o desenvolvimento de sites. Com o intuito de aprimorar minhas habilidades e aprender novas estou constantemente buscando por conhecimentos novos através de cursos, leituras e entre outros
-- 😄 Ela/Dela
+🤓 Sou formada em análise e desenvolvimento de sistemas e trabalho com o desenvolvimento de sites. Com o intuito de aprimorar minhas habilidades e aprender novas estou constantemente buscando por conhecimentos novos através de cursos, leituras e entre outros
+
 
 <div align="center">
   <a href="https://github.com/Jatkamprek">
