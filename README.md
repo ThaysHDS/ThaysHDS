@@ -1,5 +1,3 @@
-![snake gif](https://github.com/ThaysHDS/ThaysHDS/blob/output/github-contribution-grid-snake.svg)
-
 ## Olá, sou a Thays! Seja bem-vinda(o)! 👋
 
 🤓 Sou formada em Análise e Desenvolvimento de Sistemas e trabalho com desenvolvimento de sites.  
@@ -40,6 +38,10 @@ Estou sempre em busca de aprender novas tecnologias por meio de cursos, leituras
 
 <div>
   <a href="https://thayshds.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/‑Portfólio‑web‑0275D8?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://www.instagram.com/jatkamprek" target="_blank"><img src="https://img.shields.io/badge/‑Instagram‑E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/thays-hds/" target="_blank"><img src="https://img.shields.io/badge/‑LinkedIn‑0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/jatkamprek" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thays-hds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+---
+
+![snake gif](https://github.com/ThaysHDS/ThaysHDS/blob/output/github-contribution-grid-snake.svg)
