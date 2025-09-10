@@ -43,4 +43,5 @@ Estou sempre em busca de aprender novas tecnologias por meio de cursos, leituras
 
 ---
 
-![snake gif](https://github.com/ThaysHDS/ThaysHDS/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ThaysHDS/ThaysHDS/output/github-contribution-grid-snake.svg)
+
