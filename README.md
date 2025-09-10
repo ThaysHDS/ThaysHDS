@@ -1,4 +1,4 @@
-## Olá, sou a Thays! Seja bem-vinda(o)! 👋
+## Olá, sou a Thays! Seja bem-vinda(o)! 
 
 🤓 Sou formada em Análise e Desenvolvimento de Sistemas e trabalho com desenvolvimento de sites.  
 Estou sempre em busca de aprender novas tecnologias por meio de cursos, leituras e projetos práticos. 
