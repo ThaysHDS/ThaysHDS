@@ -37,7 +37,6 @@ Estou sempre em busca de aprender novas tecnologias por meio de cursos, leituras
 ###  Onde me encontrar
 
 <div>
-  <a href="https://thayshds.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/‑Portfólio‑web‑0275D8?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.instagram.com/jatkamprek" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/thays-hds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
