@@ -1,45 +1,56 @@
-## Olá, sou a Thays! Seja bem-vinda(o)! 
+# Olá, eu sou a Thays!
 
-🤓 Sou formada em Análise e Desenvolvimento de Sistemas e trabalho com desenvolvimento de sites.  
-Estou sempre em busca de aprender novas tecnologias por meio de cursos, leituras e projetos práticos. 
+Desenvolvedora Full Stack com especialização em Front-End. Construo sites modernos e automações para negócios, transformando requisitos em soluções digitais funcionais e performáticas.
 
----
+Minha abordagem é pragmática: foco na entrega de código limpo, eficiente e escalável. Busco projetos desafiadores que combinem tecnologia de ponta e design sofisticado.
 
-###  Meu portfólio
-🌐 Confira meus projetos e criações no meu site: [thayshds.netlify.app](https://thayshds.netlify.app/)
+## Minhas Especialidades:
 
----
+### Front-End:
+<p>
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="GSAP" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" />
+  <img align="center" alt="Three.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/ThaysHDS">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ThaysHDS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaysHDS&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+### Back-End:
+<p>
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+</p>
 
----
+### Ferramentas & Plataformas:
+<p>
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="SEO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
 
-###  Tecnologias que uso
+## Projetos em Destaque:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thay‑HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Thay‑CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Thay‑JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />    
-  <img align="center" alt="Thay‑React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />          
-  <img align="center" alt="Thay‑Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Thay‑Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  
-  <a href="https://picasion.com/"><img align="right" style="border-radius:50px;" src="https://i.picasion.com/pic92/33239b93b36b1cdc1897f3a598d2c583.gif" height="150" alt="Thay‑foto" /></a>
-</div>
+*   [**Meu Portfólio**](https://www.thayshenriques.com/ ) - Visite para conhecer meus projetos e serviços.
+*   [**Pixel Roots**](https://pixel-roots.vercel.app/ ) - Colaboração em desenvolvimento de sites e branding digital.
 
----
+## Conecte-se:
 
-###  Onde me encontrar
-
-<div>
-  <a href="https://www.instagram.com/thayshds/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/thays-hds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/thays-hds/ )
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/thayshds/ )
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:hds.thays@gmail.com)
 
 ---
 
